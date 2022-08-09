@@ -1,0 +1,90 @@
+
+/* border style */ 
+.bs-dotted{ border-style: dotted } .hover-bs-dotted:hover { border-style: dotted } .bs-top-dotted{ border-top-style: dotted } .hover-bs-top-dotted:hover { border-top-style: dotted } .bs-bottom-dotted{ border-bottom-style: dotted } .hover-bs-bottom-dotted:hover { border-bottom-style: dotted } .bs-right-dotted{ border-right-style: dotted } .hover-bs-right-dotted:hover { border-right-style: dotted } .bs-left-dotted{ border-left-style: dotted } .hover-bs-left-dotted:hover { border-left-style: dotted } .bs-hidden{ border-style: hidden } .hover-bs-hidden:hover { border-style: hidden } .bs-top-hidden{ border-top-style: hidden } .hover-bs-top-hidden:hover { border-top-style: hidden } .bs-bottom-hidden{ border-bottom-style: hidden } .hover-bs-bottom-hidden:hover { border-bottom-style: hidden } .bs-right-hidden{ border-right-style: hidden } .hover-bs-right-hidden:hover { border-right-style: hidden } .bs-left-hidden{ border-left-style: hidden } .hover-bs-left-hidden:hover { border-left-style: hidden } .bs-dashed{ border-style: dashed } .hover-bs-dashed:hover { border-style: dashed } .bs-top-dashed{ border-top-style: dashed } .hover-bs-top-dashed:hover { border-top-style: dashed } .bs-bottom-dashed{ border-bottom-style: dashed } .hover-bs-bottom-dashed:hover { border-bottom-style: dashed } .bs-right-dashed{ border-right-style: dashed } .hover-bs-right-dashed:hover { border-right-style: dashed } .bs-left-dashed{ border-left-style: dashed } .hover-bs-left-dashed:hover { border-left-style: dashed } .bs-solid{ border-style: solid } .hover-bs-solid:hover { border-style: solid } .bs-top-solid{ border-top-style: solid } .hover-bs-top-solid:hover { border-top-style: solid } .bs-bottom-solid{ border-bottom-style: solid } .hover-bs-bottom-solid:hover { border-bottom-style: solid } .bs-right-solid{ border-right-style: solid } .hover-bs-right-solid:hover { border-right-style: solid } .bs-left-solid{ border-left-style: solid } .hover-bs-left-solid:hover { border-left-style: solid } .bs-double{ border-style: double } .hover-bs-double:hover { border-style: double } .bs-top-double{ border-top-style: double } .hover-bs-top-double:hover { border-top-style: double } .bs-bottom-double{ border-bottom-style: double } .hover-bs-bottom-double:hover { border-bottom-style: double } .bs-right-double{ border-right-style: double } .hover-bs-right-double:hover { border-right-style: double } .bs-left-double{ border-left-style: double } .hover-bs-left-double:hover { border-left-style: double }
+
+/* cursor */
+.alias {cursor: alias;}
+.all-scroll {cursor: all-scroll;}
+.auto {cursor: auto;}
+.cell {cursor: cell;}
+.context-menu {cursor: context-menu;}
+.col-resize {cursor: col-resize;}
+.copy {cursor: copy;}
+.crosshair {cursor: crosshair;}
+.default {cursor: default;}
+.e-resize {cursor: e-resize;}
+.ew-resize {cursor: ew-resize;}
+.grab {cursor: grab;}
+.grabbing {cursor: grabbing;}
+.help {cursor: help;}
+.move {cursor: move;}
+.n-resize {cursor: n-resize;}
+.ne-resize {cursor: ne-resize;}
+.nesw-resize {cursor: nesw-resize;}
+.ns-resize {cursor: ns-resize;}
+.nw-resize {cursor: nw-resize;}
+.nwse-resize {cursor: nwse-resize;}
+.no-drop {cursor: no-drop;}
+.none {cursor: none;}
+.not-allowed {cursor: not-allowed;}
+.pointer {cursor: pointer;}
+.progress {cursor: progress;}
+.row-resize {cursor: row-resize;}
+.s-resize {cursor: s-resize;}
+.se-resize {cursor: se-resize;}
+.sw-resize {cursor: sw-resize;}
+.text {cursor: text;}
+.w-resize {cursor: w-resize;}
+.wait {cursor: wait;}
+.zoom-in {cursor: zoom-in;}
+.zoom-out {cursor: zoom-out;}
+
+/* display */
+.hidden {display: none;}
+.inline {display: inline;}
+.block {display: block;}
+.inline-block {display: inline-block;}
+.flex {display: flex;}
+.grid {display: grid;}
+.inline-flex {display: inline-flex;}
+.inline-grid {display: inline-grid;}
+.table {display: table;}
+.inline-table {display: inline-table;}
+
+/* text align */
+.text-left { text-align: left }
+.text-center { text-align: center }
+.text-right { text-align: right }
+
+/* text decoration */
+.overline {text-decoration: overline;}
+.line-through {text-decoration: line-through }
+.underline { text-decoration: underline }
+.none { text-decoration: none }
+
+/* border radius */
+.br-xs { border-radius: 2px } .hover-br-xs:hover { border-radius: 2px } .br-top-right-xs { border-top-right-radius: 2px } .hover-br-top-right-xs:hover { border-top-right-radius: 2px } .br-top-left-xs { border-top-left-radius: 2px } .hover-br-top-left-xs:hover { border-top-left-radius: 2px } .hover-br-xs:hover { border-radius: 2px } .br-bottom-right-xs { border-bottom-right-radius: 2px } .hover-br-bottom-right-xs:hover { border-bottom-right-radius: 2px } .br-bottom-left-xs { border-bottom-left-radius: 2px } .hover-br-bottom-left-xs:hover { border-bottom-left-radius: 2px } .br-sm { border-radius: 5px } .hover-br-sm:hover { border-radius: 5px } .br-top-right-sm { border-top-right-radius: 5px } .hover-br-top-right-sm:hover { border-top-right-radius: 5px } .br-top-left-sm { border-top-left-radius: 5px } .hover-br-top-left-sm:hover { border-top-left-radius: 5px } .hover-br-sm:hover { border-radius: 5px } .br-bottom-right-sm { border-bottom-right-radius: 5px } .hover-br-bottom-right-sm:hover { border-bottom-right-radius: 5px } .br-bottom-left-sm { border-bottom-left-radius: 5px } .hover-br-bottom-left-sm:hover { border-bottom-left-radius: 5px } .br-md { border-radius: 8px } .hover-br-md:hover { border-radius: 8px } .br-top-right-md { border-top-right-radius: 8px } .hover-br-top-right-md:hover { border-top-right-radius: 8px } .br-top-left-md { border-top-left-radius: 8px } .hover-br-top-left-md:hover { border-top-left-radius: 8px } .hover-br-md:hover { border-radius: 8px } .br-bottom-right-md { border-bottom-right-radius: 8px } .hover-br-bottom-right-md:hover { border-bottom-right-radius: 8px } .br-bottom-left-md { border-bottom-left-radius: 8px } .hover-br-bottom-left-md:hover { border-bottom-left-radius: 8px } .br-lg { border-radius: 12px } .hover-br-lg:hover { border-radius: 12px } .br-top-right-lg { border-top-right-radius: 12px } .hover-br-top-right-lg:hover { border-top-right-radius: 12px } .br-top-left-lg { border-top-left-radius: 12px } .hover-br-top-left-lg:hover { border-top-left-radius: 12px } .hover-br-lg:hover { border-radius: 12px } .br-bottom-right-lg { border-bottom-right-radius: 12px } .hover-br-bottom-right-lg:hover { border-bottom-right-radius: 12px } .br-bottom-left-lg { border-bottom-left-radius: 12px } .hover-br-bottom-left-lg:hover { border-bottom-left-radius: 12px } .br-xl { border-radius: 18px } .hover-br-xl:hover { border-radius: 18px } .br-top-right-xl { border-top-right-radius: 18px } .hover-br-top-right-xl:hover { border-top-right-radius: 18px } .br-top-left-xl { border-top-left-radius: 18px } .hover-br-top-left-xl:hover { border-top-left-radius: 18px } .hover-br-xl:hover { border-radius: 18px } .br-bottom-right-xl { border-bottom-right-radius: 18px } .hover-br-bottom-right-xl:hover { border-bottom-right-radius: 18px } .br-bottom-left-xl { border-bottom-left-radius: 18px } .hover-br-bottom-left-xl:hover { border-bottom-left-radius: 18px } .br-2xl { border-radius: 25px } .hover-br-2xl:hover { border-radius: 25px } .br-top-right-2xl { border-top-right-radius: 25px } .hover-br-top-right-2xl:hover { border-top-right-radius: 25px } .br-top-left-2xl { border-top-left-radius: 25px } .hover-br-top-left-2xl:hover { border-top-left-radius: 25px } .hover-br-2xl:hover { border-radius: 25px } .br-bottom-right-2xl { border-bottom-right-radius: 25px } .hover-br-bottom-right-2xl:hover { border-bottom-right-radius: 25px } .br-bottom-left-2xl { border-bottom-left-radius: 25px } .hover-br-bottom-left-2xl:hover { border-bottom-left-radius: 25px } .br-3xl { border-radius: 35px } .hover-br-3xl:hover { border-radius: 35px } .br-top-right-3xl { border-top-right-radius: 35px } .hover-br-top-right-3xl:hover { border-top-right-radius: 35px } .br-top-left-3xl { border-top-left-radius: 35px } .hover-br-top-left-3xl:hover { border-top-left-radius: 35px } .hover-br-3xl:hover { border-radius: 35px } .br-bottom-right-3xl { border-bottom-right-radius: 35px } .hover-br-bottom-right-3xl:hover { border-bottom-right-radius: 35px } .br-bottom-left-3xl { border-bottom-left-radius: 35px } .hover-br-bottom-left-3xl:hover { border-bottom-left-radius: 35px }
+
+/* opacity */
+.op-0 { opacity: 0 }
+.op-1 { opacity: 0.1 }
+.op-2 { opacity: 0.2 }
+.op-3 { opacity: 0.3 }
+.op-4 { opacity: 0.4 }
+.op-4 { opacity: 0.5 }
+.op-6 { opacity: 0.6 }
+.op-7 { opacity: 0.7 }
+.op-8 { opacity: 0.8 }
+.op-9 { opacity: 0.9 }
+.op-10 { opacity: 1 }
+.hover-op-0:hover { opacity: 0 }
+.hover-p-1:hover { opacity: 0.1 }
+.hover-p-2:hover { opacity: 0.2 }
+.hover-p-3:hover { opacity: 0.3 }
+.hover-p-4:hover { opacity: 0.4 }
+.hover-p-4:hover { opacity: 0.5 }
+.hover-p-6:hover { opacity: 0.6 }
+.hover-p-7:hover { opacity: 0.7 }
+.hover-p-8:hover { opacity: 0.8 }
+.hover-p-9:hover { opacity: 0.9 }
+.hover-p-10:hover { opacity: 1 }

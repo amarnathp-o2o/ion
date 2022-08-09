@@ -1,0 +1,14 @@
+{
+  "name": "ionframework",
+  "version": "0.8.2",
+  "description": "Made to make the internet more standard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ion", "ioncss", "ionjs"
+  ],
+  "author": "vitalsx",
+  "license": "MIT"
+}
